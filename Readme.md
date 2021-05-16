@@ -8,7 +8,7 @@ Before pushing/running the codes in Arduino IDE install the Adafruit Fingerprint
 
 * the whole library is forked in this repository except the "Code For Fingerprint Door LOck" folder which includes the codes for the final project
 
-### .rar file of the entire library is also added in the ".rar (library)" folder, that can be downloaded and installed directly
+### .rar file of the entire library is also added in the ".zip (library)" folder, that can be downloaded and installed directly
 
 
 ## <strong><em> Adafruit-Fingerprint-Sensor-Library </strong></em>[![Build Status](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit-Fingerprint-Sensor-Library/html/index.html)
