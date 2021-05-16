@@ -1,4 +1,4 @@
-# Instructions - 
+# INSTRUCTIONS - 
 
 The codes for the Fingerprint Door lock are present in the "Code For Fingerprint Door Lock" folder
 
@@ -8,10 +8,10 @@ Before pushing/running the codes in Arduino IDE install the Adafruit Fingerprint
 
 * the whole library is forked in this repository except the "Code For Fingerprint Door LOck" folder which includes the codes for the final project
 
-## .rar file of the entire library is also added in the ".rar (library)" folder
+### .rar file of the entire library is also added in the ".rar (library)" folder, that can be downloaded and installed directly
 
 
-# Adafruit-Fingerprint-Sensor-Library [![Build Status](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit-Fingerprint-Sensor-Library/html/index.html)
+## <strong><em> Adafruit-Fingerprint-Sensor-Library </strong></em>[![Build Status](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/workflows/Arduino%20Library%20CI/badge.svg)](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library/actions)[![Documentation](https://github.com/adafruit/ci-arduino/blob/master/assets/doxygen_badge.svg)](http://adafruit.github.io/Adafruit-Fingerprint-Sensor-Library/html/index.html)
 
 <img src="https://cdn-shop.adafruit.com/970x728/751-03.jpg" height="300"/>
 <img src="https://cdn-shop.adafruit.com/1200x900/4651-00.jpg" height="300"/>
