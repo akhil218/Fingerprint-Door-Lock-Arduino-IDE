@@ -1,12 +1,10 @@
 # INSTRUCTIONS - 
 
-The codes for the Fingerprint Door lock are present in the [Code For Fingerprint Door Lock](https://github.com/akhil218/Fingerprint-Door-Lock-Arduino-IDE/tree/master/Code%20For%20Fingerprint%20Door%20Lock) folder
+* The codes for the Fingerprint Door lock are present in the [Code For Fingerprint Door Lock](https://github.com/akhil218/Fingerprint-Door-Lock-Arduino-IDE/tree/master/Code%20For%20Fingerprint%20Door%20Lock) folder
 
-The instructions of how to operate the codes are given in that respective folder
+* The instructions of how to operate the codes are given in that respective folder
 
-Before pushing/running the codes in Arduino IDE install the [Adafruit Fingerprint Sensor Libraries](https://github.com/akhil218/Adafruit-Fingerprint-Sensor-Library)
-
-* the whole library is forked in this repository except the "Code For Fingerprint Door Lock" folder which includes the codes for the final project
+* Before pushing/running the codes in Arduino IDE install the [Adafruit Fingerprint Sensor Libraries](https://github.com/akhil218/Adafruit-Fingerprint-Sensor-Library)
 
 ### .zip file of the entire library is also added in the [.zip (library)](https://github.com/akhil218/Fingerprint-Door-Lock-Arduino-IDE/tree/master/.zip%20(library)) folder, that can be downloaded and installed directly
 
